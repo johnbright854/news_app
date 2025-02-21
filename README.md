@@ -21,7 +21,7 @@ This project is a News App built using Flutter. The app fetches real-time news a
       - Short description
       - Published date in a smaller font
       
-   State Management
+  State Management
     - Implemented Provider for efficient state management.
     - Handles different states:
       - Loading state (displays a progress indicator)
